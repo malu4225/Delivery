@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+}
+#partecima{
+    background-color: rgb(4, 58, 4);
+padding: 1vh;
+height: 200px;
+}
+.logoprincipal{
+    text-align: left;
+ font-size: 60px;
+    color: chartreuse;
+    padding: 0%;
+    font-family: "Grey Qo", cursive;
+    margin: 0;
+    font-family: "Grey Qo", cursive;
+    padding-bottom: 50px;
+padding-left: 20px;}
+.textoprincipal{
+    font-family: "Josefin Slab", serif;
+    text-align: center;
+    color: aliceblue;
+    font-weight: 100;
+font-size:23px;
+margin:-50px;
+padding-bottom: 50px;
+padding-left: 20px;}

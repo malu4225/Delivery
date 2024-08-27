@@ -1,0 +1,35 @@
+body{
+    margin:0
+}
+#paginainicial{
+    background-image: url(imagens/image1.png) ;
+    background-size: cover;
+    height: 120vh;
+}
+
+.logoprincipal{
+text-align: center;
+font-size: 200px;
+color: chartreuse;
+padding: 0%;
+font-family: "Grey Qo", cursive;
+margin: 0;
+}
+.texto1{
+ font-size: 50px ;
+color: aliceblue;
+padding-inline-start: 10%;
+padding-top: 150px;
+font-family: "Gupter", serif;
+}
+.direcionamento1{
+    color: chartreuse;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+padding:120px}
+
+#link
+{
+    color: inherit;
+    text-decoration: white;
+}
